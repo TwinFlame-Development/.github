@@ -1,6 +1,6 @@
 [<img src="https://play-lh.googleusercontent.com/NU77TvVkFrbfKXqI_PtWWSDm38fnTuhwMGD22dGWuzhEj2CT4EgeCl5y2GM_9J8zpN0=w832-h470-rw" alt="👋 Hi there! We're TwinFlame" title="👋 Hi there! We're TwinFlame!|https://www.twinflamedev.com/)"/>](https://www.twinflamedev.com/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=TwinFlame-Development&color=00cf00)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TwinFlame-Development.visitor-badge)
 
 Hi! We're TwinFlame Development!
 
