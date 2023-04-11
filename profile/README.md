@@ -11,7 +11,7 @@ TwinFlame Development, LLC is the company behind the iPhone/Android astrology ap
 
 We’re focused on using astrology, psychology, and other spiritual tools to help our users gain valuable insights and use those insights to “be your best you”.
 
-We're placing some of our developer tools & resources on Github!
+We're placing some of our developer tools & resources on GitHub!
 - [The TwinFlame Horoscope API](https://github.com/TwinFlame-Development/horoscopeAPI) - get daily horoscopes!
 
 and we'll always consider opening other things we've built to others - feel free to ask!
